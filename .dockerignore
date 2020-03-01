@@ -1,0 +1,9 @@
+.git
+node_modules
+README.md
+.eslintrc.json
+.prettierignore
+.prettierrc.js
+.history
+build
+yarn-error.log

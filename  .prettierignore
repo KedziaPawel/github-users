@@ -1,0 +1,5 @@
+node_modules
+build
+public
+cypress
+src/theme/styled.d.ts
