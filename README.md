@@ -3,11 +3,12 @@ How to start the project:
 #Deployment mode:  
 a) Local machine:  
   1. yarn install  
-  2. yarn start  
+  2. yarn start
+    
 b) Docker:  
   1. docker-compose up -d  
 
-#Production mode: 
+#Production mode:   
 a) Local machine:  
   1. yarn install  
   2. yarn build  
